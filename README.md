@@ -1,4 +1,3 @@
-<img width="494" height="436" alt="image" src="https://github.com/user-attachments/assets/102bc301-0d89-4445-a1bd-915193162460" /># -512G-SSD-SM2258XT-
 记录开卡七彩虹512G SSD(主控SM2258XT)过程
 
 
