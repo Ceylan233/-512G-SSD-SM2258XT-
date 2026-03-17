@@ -42,4 +42,7 @@
 <img width="1828" height="651" alt="image" src="https://github.com/user-attachments/assets/97d781c7-e659-4626-8812-b076e5ea2b8f" /><br>
 
 成功修复SSD。<br>
-工具放在了仓库中
+
+<img width="671" height="393" alt="image" src="https://github.com/user-attachments/assets/4e062512-a908-47fd-8543-ad8d3a029bf0" /><br>
+
+最后，工具放在了仓库中
