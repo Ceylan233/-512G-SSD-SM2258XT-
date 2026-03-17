@@ -12,7 +12,9 @@
 首先要准备一个SATA-USB转接硬盘盒（我使用的ASM235CM）。<br>
 
 手中这块是七彩虹的SL500固态硬盘，主控是SM2258XT，闪存丝印是H25QFT8B3A8R，ID是AD,5E,28,22,10,90（Hynix HY3DV4制程）。<br>
-![Uploading 0fa77d341cb7e21dd1ddedc081c818b.jpg…]()<br>
+![380d74f309184e8cd3e646fb7bc2b8a](https://github.com/user-attachments/assets/8df99b8b-e440-4051-bec8-1ac7981758e4)
+
+![0fa77d341cb7e21dd1ddedc081c818b](https://github.com/user-attachments/assets/b8e18688-b575-4f00-8dcb-49fc3cc3fa85)<br>
 
 **关于如何找到自己的硬盘的参数**<br>
 先使用硬盘进入工厂模式，拆开SSD，使用镊子短接两个ROM孔，短接的过程中插上电，就可以进入工厂模式。<br>
